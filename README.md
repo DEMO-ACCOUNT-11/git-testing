@@ -21,3 +21,13 @@ this change is made to commit and ammend other change into.
 ## amend this change (also i figured out the typo)
 some changes to be amended.
 messed something up(commit messege didn't update) amending again.
+
+## some change to commit and restore back to
+- mercury
+- venus
+- earth
+- mars
+- jupiter
+- saturn
+- uranus
+- neptune
