@@ -41,3 +41,5 @@ messed something up(commit messege didn't update) amending again.
 ## some change to be pulled in master
 for testing pull request
 addition suggested by review...
+
+## issue to close from commit in pull request #3
